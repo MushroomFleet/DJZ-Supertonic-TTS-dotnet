@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupertonicTTSTrayApp", "SupertonicTTSTrayApp\SupertonicTTSTrayApp.csproj", "{793E085F-ACA5-8FC4-52C5-41D701FD974E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "example_repo", "example_repo", "{84944D3C-FE7E-82A9-8D10-7A3F6C825376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supertonic", "example_repo\csharp\Supertonic.csproj", "{1BD207F7-B105-3027-9C14-7C11420C92DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793E085F-ACA5-8FC4-52C5-41D701FD974E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793E085F-ACA5-8FC4-52C5-41D701FD974E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793E085F-ACA5-8FC4-52C5-41D701FD974E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793E085F-ACA5-8FC4-52C5-41D701FD974E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD207F7-B105-3027-9C14-7C11420C92DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD207F7-B105-3027-9C14-7C11420C92DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD207F7-B105-3027-9C14-7C11420C92DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD207F7-B105-3027-9C14-7C11420C92DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1BD207F7-B105-3027-9C14-7C11420C92DD} = {84944D3C-FE7E-82A9-8D10-7A3F6C825376}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {939FFA4F-8CC0-446B-921A-E760067DFAF1}
+	EndGlobalSection
+EndGlobal
