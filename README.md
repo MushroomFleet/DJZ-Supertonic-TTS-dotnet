@@ -258,3 +258,24 @@ For issues, questions, or contributions:
 ---
 
 **Status**: ✅ Production Ready - v0.5.0 fully tested and working!
+
+## 📚 Citation
+
+### Academic Citation
+
+If you use this codebase in your research or project, please cite:
+
+```bibtex
+@software{djz-supertonic-tts-dotnet,
+  title = {DJZ Supertonic TTS dotnet: Supertonic TTS to convert text to speech},
+  author = {[Drift Johnson]},
+  year = {2025},
+  url = {https://github.com/MushroomFleet/DJZ-Supertonic-TTS-dotnet},
+  version = {1.0.0}
+}
+```
+
+### Donate:
+
+
+[![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/driftjohnson)
